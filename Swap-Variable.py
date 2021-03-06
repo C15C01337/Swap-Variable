@@ -4,8 +4,8 @@
 print("Devloped By C15C01337 (Bishal Aryal)")
 print("Follow me on Twitter username @C15C01337")
 
-a =input("Enter a value of a:")
-b =input("Enter a value of b:")
+a =int(input("Enter a value of a:"))
+b =int(input("Enter a value of b:"))
 
 
 def swap_values(user_val1, user_val2):
